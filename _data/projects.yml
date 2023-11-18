@@ -3,15 +3,52 @@
 
 # jazznotes.io
 - project: National Social Security Strategy
-  role: Founder & Primary Developer
+  role: Founder & Lead Developer
   duration: 2023 &mdash; Present
   url: http://mnedashboard.online
-  Platform: Laravel 10, MySQL, Nuxt.js, Vue3, PHP 8
+  Platform: Laravel 10, MySQL, Nuxt.js, Vue.js, PHP 8
   description: Dashboard to analyze social safety data of various goverment Projects.
 
 # Springfield Community Outreach Group
 - project: Teletalk Bangladesh Ltd
-  role: Founder & Primary Developer
+  role: Founder & Lead Developer
   duration: 2020 &mdash; 2021
   url: http://www.teletalk.com.bd
+  Platform: Laravel , MySQL, Jquery
   description: This is one of the telecommunication site of Bangladesh from where you can view & purchase data plan.
+
+- project: সামাজিক নিরাপত্তা কর্মসূচী ও ভাতা ব্যাবস্থাপনা সিস্টেম
+  role: Founder & Lead Developer
+  duration: 2020 &mdash; present
+  url: http://mis.bhata.gov.bd
+  Platform: Laravel , MySQL, Jquery
+  description: It's an MIS Allowance Management System. Allowance System for Old Age, Widows, Husband deserted and destitute Women, Insolvent Persons With Disabilities, Education stipend for Insolvent persons with disabilities Under The Governance of Ministry of Information system Funded by a2i. Also Digital Payroll system for Department of Social Services.
+
+- project: বীর মুক্তিযোদ্ধা তথ্য ও ভাতা ব্যবস্থাপনা সিস্টেম
+  role: Founder & Lead Developer
+  duration: 2020 &mdash; present
+  url:  http://mis.molwa.gov.bd
+  Platform: Laravel , MySQL, Jquery
+  description: It's an Allowance Management And Payroll System For Freedom Fighters Of Bangladesh.
+
+- project: কিশোর বাতায়ন
+  role: Founder & Lead Developer
+  duration: 2021 &mdash; present
+  url:  http://konnect.edu.bd
+  Platform: Laravel , MySQL, Jquery
+  description: A platform that promotes Education, Life Skills and Counseling for adolescents.
+
+- project: Deal Bazaar Bd
+  role: Primary Developer
+  duration: 2020
+  url:  https://dealbazaarbd.com
+  Platform: Laravel , MySQL, Vue.js
+  description: Multi-vendor e-commerce platform build with Laravel Vue.js to fetch Huge verities of products from all over the worlds.  
+
+- project: E-Study Book
+  role: Primary Developer
+  duration: 2019
+  url:  https://studybook-e.com
+  Platform: Laravel , MySQL, Vue.js
+  description: Smart-Education Service for various schools, teachers, parents to chose suitable tutorial packages for their respective students.
+
