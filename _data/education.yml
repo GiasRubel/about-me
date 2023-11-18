@@ -1,13 +1,15 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: B.Sc. (HONS.) In Computer science & Engineering
+  uni: Institute of Science & Technology
+  year: 2015
+  result: 3.15
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Higher Secondary Certificate (HSC)
+  uni: Hajera-Taju University College
+  year: 2008
+  result: 4.40
+
+- degree: Secondary School Certificate (SSC)
+  uni: Zia Sarkarkhana School
+  year: 2006
+  result: 5.00
